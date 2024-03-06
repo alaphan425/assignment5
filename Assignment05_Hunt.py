@@ -145,6 +145,7 @@ def main():
             print("The data type of",argument,"is "+result+".")
             
         elif option == "11":
+            print("Exiting.")
             end = True
             break
         
