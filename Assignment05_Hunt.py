@@ -34,6 +34,9 @@ class BasicMathOperations:
             for i in range (1, num+1):
                 result*=i
             return result
+        elif num == 0:
+            result = 1
+            return result
         else:
             print("Error: Factorial only defined for positive integers.")
             
