@@ -1,9 +1,3 @@
-"""
-Alexander Hunt
-EECE 2140
-Professor Fatema Nafa
-March 5, 2024
-"""
 class BasicMathOperations:   
     def greetUser(self, forename, surname):
         print("Hello, "+forename+" "+surname+".")
